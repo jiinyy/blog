@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: jiinyy
     subtitle: "This is jiinyy"
-    imageUrl: "/image/jiinyy.jpeg"
+    imageUrl: "image/me.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
